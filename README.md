@@ -1,29 +1,14 @@
-# 👋 Hi, I'm Puneet Sharma
+💫 About Me:
+Hi 👋 I'm Puneet Sharma
 
-🎓 BCA Student  
-💻 Aspiring Software Developer  
-🤖 Interested in AI & Modern Technologies  
+Aspiring MERN stack learner who enjoys building full-stack web applications and learning how things work behind the scenes.
 
----
-
- 🚀 About Me
-- I'm a BCA student passionate about coding and problem-solving  
-- Currently learning software development and AI concepts  
-- Love building small projects to improve my skills  
-
- 🛠️ Skills
-- Programming:  Python (Basic)
-- Web: HTML, CSS, JavaScript, 
-- Database: MySQL
-- Tools: Git, GitHub, VS Code
-
-📚 Currently Learning
-  
-- Web Development  
-- AI & Machine Learning (Basics)
-
- 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/puneet-sharma
-- GitHub: https://github.com/puneet-sharma
-
-⭐ Thanks for visiting my profile!
+🌱 Currently learning: MongoDB, Express.js, React, Node.js and AI & ML(Basic)
+💻 Frontend: HTML, CSS, JavaScript, React
+🛠️ Backend: Node.js, Express.js and python(Basic)
+🗄️ Database: MongoDB
+🚀 Goal: To become an industry-ready full-stack MERN developer
+📚 Learning by building real-world projects
+💬 Ask me about: Collaboration, Tech Support
+📫 How to reach me: puneetsharma83031@gmail.com and https://www.linkedin.com/in/puneet-sharma-522633330
+⚡ Fun fact: Learning, building, and improving one commit at a time.
