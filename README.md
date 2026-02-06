@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Puneet Sharma
 
-<!--
-**puneetsharma180/puneetsharma180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Aspiring Software Developer  
+🤖 Interested in AI & Modern Technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 About Me
+- I'm a BCA student passionate about coding and problem-solving  
+- Currently learning software development and AI concepts  
+- Love building small projects to improve my skills  
+
+ 🛠️ Skills
+- Programming:  Python (Basic)
+- Web: HTML, CSS, JavaScript, 
+- Database: MySQL
+- Tools: Git, GitHub, VS Code
+
+📚 Currently Learning
+  
+- Web Development  
+- AI & Machine Learning (Basics)
+
+ 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/puneet-sharma
+- GitHub: https://github.com/puneet-sharma
+
+⭐ Thanks for visiting my profile!
